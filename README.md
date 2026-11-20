@@ -2,7 +2,44 @@
 
 <div align="center">
 
-@@ -43,45 +43,46 @@
+<img src="https://github.com/Tahj-brown.png" width="150" style="border-radius:50%;border:4px solid #0969da"/>
+
+# Hi there, I'm Tashjmere Brown
+
+**Tashjmere Brown**
+
+*IT Professional*
+
+[![GITHUB](https://img.shields.io/badge/GITHUB-%40Tahj-brown-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tahj-brown)
+
+</div>
+
+---
+
+## Professional Summary
+
+Aspiring IT professional with a strong interest in cybersecurity, networking, and artificial intelligence, committed to developing technical expertise and contributing to innovative technology solutions.
+
+---
+
+## Skills Learned
+
+🖥️ Tech Essentials: ![Computer Hardware](https://img.shields.io/badge/Computer%20Hardware-0969da?style=flat-square) ![Troubleshooting](https://img.shields.io/badge/Troubleshooting-0969da?style=flat-square) ![Operating Systems](https://img.shields.io/badge/Operating%20Systems-0969da?style=flat-square) ![BIOS/UEFI](https://img.shields.io/badge/BIOS%2FUEFI-0969da?style=flat-square) ![Storage Devices](https://img.shields.io/badge/Storage%20Devices-0969da?style=flat-square) ![Virtualization](https://img.shields.io/badge/Virtualization-0969da?style=flat-square) ![Command Line](https://img.shields.io/badge/Command%20Line-0969da?style=flat-square) ![Peripheral Devices](https://img.shields.io/badge/Peripheral%20Devices-0969da?style=flat-square)
+
+🌐 Networking & Security: ![Wi-Fi](https://img.shields.io/badge/Wi--Fi-0969da?style=flat-square)
+
+💻 Programming Languages & Tools: ![Python](https://img.shields.io/badge/Python-0969da?style=flat-square) ![Git](https://img.shields.io/badge/Git-0969da?style=flat-square)
+
+☁️ Cloud & DevOps: ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0969da?style=flat-square)
+
+---
+
+## Course Portfolio
+
+<details>
+<summary><strong>Course 1: Networking I</strong></summary>
+
+| Lab / Project | Description | Status | Link |
 |---|---|---|---|
 | GitHub | Established a central GitHub repository to showcase personal projects, version-controlled codebases, and ongoing technical development. | ✅ Complete | [Open](https://github.com/) |
 | Deploy Windows Server on an Azure Virtual Machine | Deployed Windows Server 2025 on an Azure virtual machine | ✅ Complete | — |
@@ -31,7 +68,6 @@
 
 </details>
 
-<details>
 <summary><strong>Course 5: Server I</strong></summary>
 
 *No labs added yet.*
