@@ -18,8 +18,7 @@
 
 ## Professional Summary
 
-Aspiring IT professional with a strong interest in cybersecurity, networking, and artificial intelligence, committed to developing technical expertise and contributing to innovative technology solutions.
-
+Motivated aspiring IT professional with a strong interest in cybersecurity, Python, networking, and artificial intelligence. Skilled in learning new technologies quickly and continuously expanding technical knowledge. Committed to building technical expertise and contributing to innovative solutions that solve real world challenges.
 ---
 
 ## Skills Learned
