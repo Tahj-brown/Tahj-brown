@@ -68,6 +68,7 @@ Aspiring IT professional with a strong interest in cybersecurity, networking, an
 
 </details>
 
+<details>
 <summary><strong>Course 5: Server I</strong></summary>
 
 *No labs added yet.*
@@ -85,3 +86,4 @@ Aspiring IT professional with a strong interest in cybersecurity, networking, an
 
 <div align="center">
 <sub>Built with the <a href="https://mycceducation.azurewebsites.net">MyComputer Career Digital Portfolio Builder</a> · ITSA Program</sub>
+</div>
